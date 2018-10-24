@@ -1,3 +1,3 @@
 # {{pascalcase name}}
 
-`npm install @coinsquare/{{hyphenate name}}-component`
+`npm install @taplytics/{{hyphenate name}}-component`

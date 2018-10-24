@@ -1,5 +1,5 @@
 {
-  "name": "@coinsquare/World-component",
+  "name": "@taplytics/World-component",
   "version": "0.0.0",
   "description": "World component",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "styled-system": "^3.1.3",
-    "@coinsquare/build": "^0.0.0",
-    "@coinsquare/storybook": "^0.0.0"
+    "@taplytics/build": "^0.0.0",
+    "@taplytics/storybook": "^0.0.0"
   }
 }

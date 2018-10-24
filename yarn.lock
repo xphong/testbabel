@@ -782,13 +782,13 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@commitlint/cli@7.1.2":
-  version "7.1.2"
-  resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-7.1.2.tgz#9ad1b4703679e18e3b1972c4abf0441255219e78"
+"@commitlint/cli@7.2.1":
+  version "7.2.1"
+  resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-7.2.1.tgz#dbb9eeb1f5015a129bb0801fbc1115eb1dcd513b"
   dependencies:
-    "@commitlint/format" "^7.1.2"
-    "@commitlint/lint" "^7.1.2"
-    "@commitlint/load" "^7.1.2"
+    "@commitlint/format" "^7.2.1"
+    "@commitlint/lint" "^7.2.1"
+    "@commitlint/load" "^7.2.1"
     "@commitlint/read" "^7.1.2"
     babel-polyfill "6.26.0"
     chalk "2.3.1"
@@ -796,6 +796,8 @@
     lodash.merge "4.6.1"
     lodash.pick "4.4.0"
     meow "5.0.0"
+    resolve-from "^4.0.0"
+    resolve-global "^0.1.0"
 
 "@commitlint/config-conventional@7.1.2":
   version "7.1.2"
@@ -817,7 +819,7 @@
   dependencies:
     babel-runtime "6.26.0"
 
-"@commitlint/format@^7.1.2":
+"@commitlint/format@^7.2.1":
   version "7.2.1"
   resolved "https://registry.yarnpkg.com/@commitlint/format/-/format-7.2.1.tgz#7d8b25002792d6481f0f8f9614736e43106749c1"
   dependencies:
@@ -830,7 +832,7 @@
   dependencies:
     semver "5.6.0"
 
-"@commitlint/lint@^7.1.2":
+"@commitlint/lint@^7.2.1":
   version "7.2.1"
   resolved "https://registry.yarnpkg.com/@commitlint/lint/-/lint-7.2.1.tgz#4511a9acada6870042ca3244417b401ad1043d46"
   dependencies:
@@ -840,7 +842,7 @@
     babel-runtime "^6.23.0"
     lodash.topairs "4.3.0"
 
-"@commitlint/load@^7.1.2":
+"@commitlint/load@^7.2.1":
   version "7.2.1"
   resolved "https://registry.yarnpkg.com/@commitlint/load/-/load-7.2.1.tgz#f1a49cb2ecf53e235e4f3523f75a553f5b481f5c"
   dependencies:
@@ -7522,9 +7524,9 @@ humanize-ms@^1.2.1:
   dependencies:
     ms "^2.0.0"
 
-husky@1.0.0-rc.14:
-  version "1.0.0-rc.14"
-  resolved "https://registry.yarnpkg.com/husky/-/husky-1.0.0-rc.14.tgz#e1380575fe4cf17e1ca98791395c1baafa8064c7"
+husky@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-1.1.0.tgz#7271e85f5d98b54349788839b720c9a60cd95dba"
   dependencies:
     cosmiconfig "^5.0.6"
     execa "^0.9.0"

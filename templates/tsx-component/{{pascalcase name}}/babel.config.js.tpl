@@ -1,1 +1,1 @@
-module.exports = require("@coinsquare/build/babel.config");
+module.exports = require("@taplytics/build/babel.config");

@@ -5,7 +5,7 @@ import { withInfo } from '@storybook/addon-info';
 
 import {{pascalcase name}} from './{{pascalcase name}}';
 
-import { createStorySetWithDefault, getKnob, getStoryProps } from '@coinsquare/storybook';
+import { createStorySetWithDefault, getKnob, getStoryProps } from '@taplytics/storybook';
 
 const getKnobProps = (exclude = []) => ({
   ...getKnob('dummyProp', text, 'Dummy Prop', '123', exclude),

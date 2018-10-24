@@ -1,5 +1,5 @@
 {
-  "name": "@coinsquare/{{hyphenate name}}-component",
+  "name": "@taplytics/{{hyphenate name}}-component",
   "version": "0.0.0",
   "description": "{{pascalcase name}} component",
   "scripts": {
@@ -20,7 +20,7 @@
     "react": "^16.5.1"
   },
   "dependencies": {
-    "@coinsquare/build": "^0.0.0",
-    "@coinsquare/storybook": "^0.0.0"
+    "@taplytics/build": "^0.0.0",
+    "@taplytics/storybook": "^0.0.0"
   }
 }

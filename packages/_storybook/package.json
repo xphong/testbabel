@@ -1,7 +1,7 @@
 {
-  "name": "@coinsquare/storybook",
+  "name": "@taplytics/storybook",
   "version": "0.0.0",
-  "description": "Coinsquare storybook config",
+  "description": "Taplytics storybook config",
   "main": "index.js",
   "scripts": {
     "build": "echo ''"

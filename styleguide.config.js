@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Coinsquare Styleguide",
+  title: "Taplytics Styleguide",
   components: "packages/**/src/!(*.story).*sx"
   // resolver: require("react-docgen").resolver.findAllComponentDefinitions,
   // propsParser: (filePath, source, resolver, handlers) => {
