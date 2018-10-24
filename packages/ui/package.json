@@ -1,7 +1,7 @@
 {
-  "name": "@taplytics/World-component",
+  "name": "@taplytics/ui",
   "version": "0.0.0",
-  "description": "World component",
+  "description": "UI component library",
   "scripts": {
     "build": "babel src --out-dir dist --verbose",
     "type-check": "echo ''",
